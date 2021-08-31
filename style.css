@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+    background-attachment: scroll;
+    background-image: linear-gradient(to top, rgba(0,0,0,0.471), rgba(0,0,0,0.471)), url('Images/Background.png');
+    background-color: #000000;
+}
+.square{
+    height: 300px;
+    width: 700px;
+    background-color: #141414;
+    border-radius: 15px;
+    position: relative;
+    top: 300px;
+    left: 500px;
+}
+.Username{
+    position: relative;
+    padding-left: 0px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.User-PFP{
+    position: relative;
+    left: 510px;
+    bottom: 40px;
+    border-radius: 360px;
+}
+.About-Me{
+    text-align: center;
+    position: relative;
+    bottom: 248px;
+    width: 400px;
+    left: 740px;
+    height: 300px;
+}
