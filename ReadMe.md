@@ -14,5 +14,5 @@ Make sure your profile picture is 512x512 pixels and that it is a PNG file
 ---
 ## Credits
 
-[Crizzle](https://velocitydesigns.xyz) - Creating the Page.
-[Harley](https://h4r1ey-dev.xyz) - Fixing small errors.
+ [Crizzle](https://velocitydesigns.xyz) - Creating the Page.
+ [Harley](https://h4r1ey-dev.xyz) - Fixing small errors.
