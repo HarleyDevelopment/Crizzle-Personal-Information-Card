@@ -26,6 +26,7 @@ body{
     text-align: center;
     font-size: 30px;
     text-decoration: underline;
+    color: white;
 }
 .User-PFP{
     position: relative;
@@ -40,4 +41,22 @@ body{
     width: 400px;
     left: 740px;
     height: 300px;
+    color: white;
+}
+
+@media screen and (max-width: 1100px) {
+	.Username{
+		top: 5px;
+	}
+	.About-Me{
+		text-align: center;
+		position: relative;
+		left: 50px;
+		top: -125px;
+	}
+
+	.User-PFP{
+		left: 125px;
+		top: -350px;
+	}
 }
