@@ -11,4 +11,8 @@ Profile Picture name = Profile-Picture.png
 Background name = Background.png
 Make sure your profile picture is 512x512 pixels and that it is a PNG file
 
-Made by: Mr Crizzle#2845
+---
+## Credits
+
+[Crizzle](https://velocitydesigns.xyz) - Creating the Page.
+[Harley](https://h4r1ey-dev.xyz) - Fixing small errors.
